@@ -1,0 +1,1 @@
+export { TeamRadarChart } from './index'

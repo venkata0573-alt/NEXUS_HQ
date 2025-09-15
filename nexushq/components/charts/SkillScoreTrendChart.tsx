@@ -1,0 +1,1 @@
+export { SkillScoreTrendChart } from './index'
