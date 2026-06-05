@@ -174,13 +174,10 @@ nexushq/
 └── README.md
 ```
 
-## Troubleshooting
+<img width="1512" height="822" alt="Screenshot 2026-06-05 at 6 16 12 PM" src="https://github.com/user-attachments/assets/dfcaf701-eeaa-4694-91bc-dbbc365fccf6" />
+<img width="1512" height="822" alt="Screenshot 2026-06-05 at 6 16 17 PM" src="https://github.com/user-attachments/assets/ccb7d7d6-d439-4816-9ca2-f4e491fc8ff3" />
+<img width="1512" height="822" alt="Screenshot 2026-06-05 at 6 16 33 PM" src="https://github.com/user-attachments/assets/03763a07-c738-4e98-87b6-d09d1ae27597" />
+<img width="1512" height="822" alt="Screenshot 2026-06-05 at 6 16 42 PM" src="https://github.com/user-attachments/assets/9d68be2c-31f9-49ca-9f7b-ead33bb66244" />
 
-- **Login not working?** Confirm your app URL is listed in the Google OAuth redirect URIs and that `NEXTAUTH_URL` matches.
-- **Database errors?** Make sure the full `supabase/schema.sql` ran successfully in the SQL Editor.
-- **AI features failing?** Verify `ANTHROPIC_API_KEY` is set and has available credits.
-- **First user not admin?** Set `ADMIN_EMAIL` to your Google email before the first login.
 
-## License
 
-Add your license here (e.g. MIT).
